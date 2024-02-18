@@ -1,0 +1,64 @@
+.login{
+    height: 400px;
+    width: 400px;
+    margin: auto;
+    position: relative;
+    top: 100px;
+    border-radius: 25px;
+    box-shadow: 0 0 8px 8px #ccc;
+}
+.login-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.login-body h1{
+    padding-top: 30px;
+    font-size: 30px;
+    font-family: Poppins;
+    font-weight: 500;
+    color: #333;
+}
+.login-body h2{
+    font-size: 15px;
+    color: #646464;
+    padding-top: 15px;
+    font-weight: 600;
+}
+.login-body input{
+    height: 45px;
+    margin-top: 25px;
+    border-radius: 10px;
+    font-family: Poppins;
+    font-size: 14px;
+    border-style: none;
+    border: 2px solid #c0c0c0;
+    width: 330px;
+    color: #c0c0c0;
+    padding-left: 10px;
+}
+.login-body button{
+    height: 45px;
+    width: 330px;
+    cursor: pointer;
+    border-style: none;
+    background: #333;
+    color: white;
+    font-size: 14px;
+    font-family: Poppins;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.gle-signin img{
+    height: 30px;
+    position: relative;
+    left: 80px;
+    top: 10px;
+}
+.gle-signin button{
+    cursor: pointer;
+    background: #c4c4c4;
+    color: #333;
+    
+}
