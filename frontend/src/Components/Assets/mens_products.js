@@ -1464,3 +1464,5 @@ export const products_kids = [
         old_price: 80.5,
     }
 ]
+
+export default products_men;

@@ -1,6 +1,6 @@
 import React from 'react'
 import './CSS/ShopCategory.css'
-import {cat_imag} from '../Components/Assets/all_product.js'
+import {cat_imag} from '../Components/Assets/cat_prod.js'
 import Itemm from '../Components/Item/Itemm.js'
 import Popular from '../Components/Popular/Popular.js'
 import Button from '../Components/Button/Button.js'

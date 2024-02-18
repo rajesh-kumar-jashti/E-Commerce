@@ -2,6 +2,7 @@ import React from 'react'
 import { products_men } from '../Assets/mens_products'
 import Item from '../Item/Item'
 import '../TopWear/Topwear.css'
+import Footer from '../Footer/Footer'
 
 const Topwear = (props) => {
   return (
@@ -15,6 +16,9 @@ const Topwear = (props) => {
             }
           })
         }
+      </div>
+      <div className="footer">
+        <Footer/>
       </div>
     </div>
   )
